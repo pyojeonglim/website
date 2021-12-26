@@ -10,7 +10,7 @@ Profolio는 디자이너를 위한, 쉽고 빠르게 제작 할 수 있는  정�
    
   <br/>
   <br/>
-  <img src="https://github.com/congchu/portfolio-1/blob/main/20210428.gif?raw=true"/>
+  
 </p>
 
 
