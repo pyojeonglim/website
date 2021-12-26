@@ -7,9 +7,7 @@ Profolio는 디자이너를 위한, 쉽고 빠르게 제작 할 수 있는  정�
     <br/>웹 사이트는 <a href="https://pyojeonglim.github.io/website/">DEMO</a>에서 확인하실 수 있습니다.
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+   
   <br/>
   <br/>
   <img src="https://github.com/congchu/portfolio-1/blob/main/20210428.gif?raw=true"/>
